@@ -1,10 +1,10 @@
 # Controls
 
-## Move block
+### Move block
 Left and right arrow
 
-## Rotate block
+### Rotate block
 Up arrow
 
-## Drop block
+### Drop block
 Down arrow
