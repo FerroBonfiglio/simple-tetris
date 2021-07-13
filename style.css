@@ -1,0 +1,4 @@
+*, *::before, *::after{ box-sizing:border-box; }
+body{ margin:0; font-family:Helvetica, Arial; font-size:16px; background:#ddd; }
+
+#canvas{ background:#fff; position:absolute; top:50%; left:50%; transform:translate(-50%, -50%); }
